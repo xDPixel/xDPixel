@@ -8,19 +8,18 @@ I'm a multi-talented geek with a knack for creating cool stuff. Whether it's wri
 - 🌱 Currently learning: Advanced Python tricks and new UI/UX trends
 - 👯 Looking to collaborate on: Web development projects, Python scripts, and open-source design
 - 💬 Ask me about: Web development, Python, UI/UX design, calligraphy, and music
-- 📫 How to reach me: siidrove@gmail.com
 - ⚡ Fun fact: I once designed a website while playing guitar. Multitasking level: Expert.
 
 ## 🚀 My Projects
-### [DPixelFetcher](https://github.com/DangerousPixel/DPixelFetcher)
+### [DPixelFetcher](https://github.com/xDPixel/DPixelFetcher)
 A telegram bot fetches metadata of appstore's apps , and get IPA files from starfiles.
 
 
-### [PixelCake](https://github.com/DangerousPixel/PixelCake)
+### [PixelCake](https://github.com/xDPixel/PixelCake)
 A GUI python app used to be an *.ipa downloader, which downloads apps/games from iphoneCake.
 
 
-### [DPLocator](https://github.com/DangerousPixel/DPLocator)
+### [DPLocator](https://github.com/xDPixel/DPLocator)
 This project is designed to search for various types of locations using the Google Places API and save the results to an Excel file. Users can choose from a wide range of location types such as real estate, supermarkets, gas stations, restaurants, hospitals, and more. The project is multilingual, supporting both English and Arabic languages.
 
 
