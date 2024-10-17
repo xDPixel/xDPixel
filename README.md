@@ -10,17 +10,6 @@ I'm a multi-talented geek with a knack for creating cool stuff. Whether it's wri
 - 💬 Ask me about: Web development, Python, UI/UX design, calligraphy, and music
 - ⚡ Fun fact: I once designed a website while playing guitar. Multitasking level: Expert.
 
-## 🚀 My Projects
-
-### [[PixelCake](https://github.com/xDPixel/PixelCake)](https://github.com/xDPixel/PixelCake)
-A GUI python app used to be an *.ipa downloader, which downloads apps/games from iphoneCake.
-
-
-### [DPLocator]([https://github.com/xDPixel/DPLocator](https://github.com/xDPixel/DPLocator))
-This project is designed to search for various types of locations using the Google Places API and save the results to an Excel file. Users can choose from a wide range of location types such as real estate, supermarkets, gas stations, restaurants, hospitals, and more. The project is multilingual, supporting both English and Arabic languages.
-
-
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xDPixel&show_icons=true&theme=radical" alt="xDPixel's GitHub Stats" />
