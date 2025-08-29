@@ -2,17 +2,15 @@
 
 ---
 
-## 💫 About Me
+## 🌌 About Me
 <p align="center">
-  I'm a <b>multi-talented geek</b> with a knack for creating cool stuff.  
-  From writing elegant <b>code</b>, designing intuitive <b>interfaces</b>, to crafting beautiful <b>calligraphy</b>,  
-  I bring a unique blend of skills to the table.  
+  Hey! I'm <b>DangerousPixel</b> — a code-slinging, game-loving, cyberpunk-doodling geek on a mission to build cool stuff.<br><br>
+  I live for immersive games, where deep stories and clever mechanics spark my imagination. Whether it's cracking strategic puzzles or getting lost in narrative worlds, I'm all in.<br><br>
+  By day, I write code that fuses function with flair. By night, I dive into neon-lit aesthetics, create digital art, and explore the elegance of JDM designs.<br><br>
+  I believe in pushing pixels with purpose, asking cosmic questions, and crafting projects that blend creativity, curiosity, and precision.<br><br>
+  Let’s build, explore, and maybe break a few rules along the way 🚀
 </p>
 
-<p align="center">
-  When I'm not immersed in lines of code, you'll probably find me:  
-  🎸 Strumming my guitar · ✍️ Sketching my next big idea
-</p>
 
 ---
 
