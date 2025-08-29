@@ -10,7 +10,7 @@ I'm a multi-talented geek with a knack for creating cool stuff. Whether it's wri
 
 # 📊GitHub Stats :
 [![Dpixel's GitHub stats](https://github-readme-stats.vercel.app/api?username=xDPixel&show_icons=true&theme=dracula)](https://github.com/xDPixel/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xDPixel&show_icons=true&theme=dracula&hide_progress=true)
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=xDPixel&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
