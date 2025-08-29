@@ -9,9 +9,7 @@ I'm a multi-talented geek with a knack for creating cool stuff. Whether it's wri
 
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=xDPixel&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=xDPixel&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xDPixel&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xDPixel)](https://github.com/xDPixel/github-readme-stats)
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=xDPixel&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
