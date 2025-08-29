@@ -47,12 +47,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=xDPixel&icon=2&color=0" alt="visit count"/>
-</p>
-
----
-
 ## 📫 Get In Touch
 <p align="center">
   <a href="https://x.com/DangerousPixel"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
