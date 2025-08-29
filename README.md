@@ -4,7 +4,9 @@
 I'm a multi-talented geek with a knack for creating cool stuff. Whether it's writing elegant code, designing intuitive interfaces, or crafting beautiful calligraphy, I bring a unique blend of skills to the table. When I'm not immersed in lines of code, you might find me strumming a guitar or sketching out my next big idea.
 
 # 💻Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) !
+[![My Skills](https://skillicons.dev/icons?i=figma,bash,powershell,bitbucket,bootstrap,css,html,js,laravel,php,mysql,cpp,cs,dotnet,flutter,swift,git,py&perline=5)](https://skillicons.dev)
+
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=xDPixel&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xDPixel&theme=synthwave&hide_border=false)<br/>
