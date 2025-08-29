@@ -4,6 +4,12 @@
 I'm a multi-talented geek with a knack for creating cool stuff. Whether it's writing elegant code, designing intuitive interfaces, or crafting beautiful calligraphy, I bring a unique blend of skills to the table. When I'm not immersed in lines of code, you might find me strumming a guitar or sketching out my next big idea.
 
 # 💻Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=figma,bash,powershell,bitbucket,bootstrap,css,html,js,laravel,php,mysql,cpp,cs,dotnet,flutter,swift,git,py)" />
+  </a>
+</p>
+
 [![My Skills](https://skillicons.dev/icons?i=figma,bash,powershell,bitbucket,bootstrap,css,html,js,laravel,php,mysql,cpp,cs,dotnet,flutter,swift,git,py&perline=5)](https://skillicons.dev)
 
 
