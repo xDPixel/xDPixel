@@ -1,25 +1,57 @@
-# Hi there, I'm DangerousPixel 👋
-
-# 💫About Me :
-I'm a multi-talented geek with a knack for creating cool stuff. Whether it's writing elegant code, designing intuitive interfaces, or crafting beautiful calligraphy, I bring a unique blend of skills to the table. When I'm not immersed in lines of code, you might find me strumming a guitar or sketching out my next big idea.
-
-# 💻Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=figma,bash,powershell,bitbucket,bootstrap,css,html,js,laravel,php,mysql,cpp,cs,dotnet,flutter,swift,git,py&perline=5)](https://skillicons.dev)
-
-
-# 📊GitHub Stats :
-[![Dpixel's GitHub stats](https://github-readme-stats.vercel.app/api?username=xDPixel&show_icons=true&theme=dracula)](https://github.com/xDPixel/github-readme-stats)
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xDPixel&show_icons=true&theme=dracula&hide_progress=false)
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=xDPixel&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h1 align="center">Hi there, I'm <span style="color:#ff4757;">DangerousPixel</span> 👋</h1>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=xDPixel&icon=2&color=0)](https://visitcount.itsvg.in)
+
+## 💫 About Me
+<p align="center">
+  I'm a <b>multi-talented geek</b> with a knack for creating cool stuff.  
+  From writing elegant <b>code</b>, designing intuitive <b>interfaces</b>, to crafting beautiful <b>calligraphy</b>,  
+  I bring a unique blend of skills to the table.  
+</p>
+
+<p align="center">
+  When I'm not immersed in lines of code, you'll probably find me:  
+  🎸 Strumming my guitar · ✍️ Sketching my next big idea
+</p>
+
+---
+
+## 💻 Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,bash,powershell,bitbucket,bootstrap,css,html,js,laravel,php,mysql,cpp,cs,dotnet,flutter,swift,git,py&perline=9" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xDPixel&show_icons=true&theme=dracula" alt="stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDPixel&layout=compact&theme=dracula" alt="langs" height="165"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=xDPixel&theme=darkhub&no-frame=false&no-bg=false&margin-w=8"/>
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=xDPixel&icon=2&color=0" alt="visit count"/>
+</p>
+
+---
 
 ## 📫 Get In Touch
 <p align="center">
@@ -30,4 +62,6 @@ I'm a multi-talented geek with a knack for creating cool stuff. Whether it's wri
   <a href="https://t.me/dpixel"><img src="https://img.shields.io/badge/-Telegram_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
-Feel free to reach out and connect. Let's build something amazing together!
+---
+
+<p align="center"><b>✨ Let's build something amazing together! ✨</b></p>
