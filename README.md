@@ -19,6 +19,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,bash,powershell,bitbucket,bootstrap,css,html,js,laravel,php,mysql,cpp,cs,dotnet,flutter,swift,git,py&perline=9" />
   </a>
+  My PC's Specs
+  [url=https://valid.x86.fr/5gmlq1][img]https://valid.x86.fr/cache/banner/5gmlq1-2.png[/img][/url]
 </p>
 
 ---
