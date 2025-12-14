@@ -9,8 +9,15 @@
   By day, I write code that fuses function with flair. By night, I dive into neon-lit aesthetics, create digital art, and explore the elegance of JDM designs.<br><br>
   I believe in pushing pixels with purpose, asking cosmic questions, and crafting projects that blend creativity, curiosity, and precision.<br><br>
   Let’s build, explore, and maybe break a few rules along the way 🚀
+
+  And .. your support is much appreciated <3 
 </p>
 
+<p align="center">
+  <a href="https://ko-fi.com/B0B5HLZZI">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi">
+  </a>
+</p>
 
 ---
 
